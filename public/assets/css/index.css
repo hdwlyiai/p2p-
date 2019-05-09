@@ -1,0 +1,84 @@
+body {
+  font-size: 0.8rem;
+}
+header .navbar-brand {
+  font-size: 1rem;
+}
+header .navbar-dark .navbar-toggler {
+  outline: none !important;
+}
+header .navbar-dark .navbar-nav .nav-link.disabled {
+  color: #ccc;
+}
+header .navbar-dark .navbar-nav .nav-link {
+  color: #ffffff;
+}
+footer ul {
+  list-style: none;
+}
+footer a {
+  color: #333;
+}
+footer .phone {
+  font-size: 1.6rem;
+}
+.home .input-group-text {
+  background-color: #ffffff;
+}
+.home .statistics p {
+  line-height: 2rem;
+  font-size: 1rem;
+}
+.home .statistics span {
+  color: #ffc107;
+  font-size: 2rem;
+}
+.home h5 {
+  font-weight: bold;
+}
+.home .title {
+  font-size: 1rem;
+}
+.home .interest {
+  font-size: 2rem;
+  color: #ff6600;
+}
+.home .stock .title {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.home .stock .info {
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+.home .stock .num {
+  color: #2dae55;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.home .fund .num {
+  color: #f60;
+  font-size: 2rem;
+}
+.home .sift .item .title {
+  font-weight: bold;
+}
+.home .sift .item span {
+  color: #f60;
+  font-size: 2rem;
+}
+.login {
+  background-image: url('/assets/img/login-bg.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+}
+.login form {
+  color: #ffffff;
+  background: rgba(0, 0, 0, 0.4);
+}
+.info .infoicon {
+  color: #008f30;
+}
+/*# sourceMappingURL=./index.css.map */
